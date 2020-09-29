@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S212021prac1</string>
+    <string name="titulo">segunda APP en androin</string>
+    <string name="Nombre">Ingresa tu nombre</string>
+    <string name="btnsaludar">Presiona</string>
+    <string name="Titulo2">Segunda pantalla</string>
+</resources>
